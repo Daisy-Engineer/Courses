@@ -9,5 +9,4 @@ Welcome to my teaching website for courses at
 
 ## Courses
 
-- [Hydrogeology](hydrogeology/)
-- [Rock Mechanics](rockmechanics/)
+- [Hydrogeology](docs/hydrogeology)
