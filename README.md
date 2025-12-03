@@ -4,5 +4,5 @@ Welcome to my teaching site at **Michigan Technological University (GMES)**.
 
 ## Courses
 
-- [Hydrogeology](docs/hydrogeology/)
+- [Hydrogeology](docs/hydrogeology/index.md)
 
