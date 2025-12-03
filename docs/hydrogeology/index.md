@@ -1,8 +1,4 @@
----
-title: Hydrogeology
----
-
-# Hydrogeology (Spring 2026)
+# GE 3850 Geohydrology (Spring 2026)
 
 **Instructor:** Dr. Daisy Ning  
 **Department:** GMES, Michigan Technological University  
