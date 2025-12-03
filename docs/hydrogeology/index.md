@@ -7,16 +7,9 @@ title: Hydrogeology
 **Instructor:** Dr. Daisy Ning  
 **Department:** GMES, Michigan Technological University  
 
-This page will host the syllabus, schedule, and resources for the Hydrogeology course.
-
-## Syllabus
-
-_(Draft – to be updated.)_
-
-## Schedule
-
-_(Draft – to be updated.)_
-
-## Resources
-
-- Textbook: Fetter, *Applied Hydrogeology*, 5th ed.
+## Course Pages
+- [Syllabus](syllabus.md)
+- [Schedule](schedule.md)
+- [Resources](resources.md)
+- [Assignments](assignments.md)
+- [Labs](labs.md)
