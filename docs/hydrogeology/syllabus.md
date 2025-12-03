@@ -4,39 +4,39 @@
 
 ## 📅 Course Information
 
-*  **Course Title:** Geohydrology, GE3850 [cite: 1]
-*  **Semester:** Spring 2026 [cite: 1]
-*  **Schedule:** Tuesday (1 hr lecture + 1 hr computer lab) & Thursday (1 hr lecture) [cite: 1]
-*  **Credits:** 3 [cite: 1]
-*  **Instructor:** Daisy Ning, yning1@mtu.edu, Dow 405 [cite: 1]
-*  **Textbook:** *Applied Hydrogeology*, 5th Edition, C. W. Fetter, David Kreamer [cite: 1]
+* **Course Title:** Geohydrology, GE3850 
+* **Semester:** Spring 2026 
+* **Schedule:** Tuesday (1 hr lecture + 1 hr computer lab) & Thursday (1 hr lecture) 
+* **Credits:** 3 
+* **Instructor:** Daisy Ning, yning1@mtu.edu, Dow 405 
+* **Textbook:** *Applied Hydrogeology*, 5th Edition, C. W. Fetter, David Kreamer 
 
 ---
 
 ## 📝 Course Description
 
- This course introduces the physical and chemical principles governing groundwater flow and occurrence[cite: 3].  It emphasizes the quantitative analysis of subsurface flow systems[cite: 3].  Students will learn how to apply Darcy’s law, interpret aquifer properties, analyze groundwater flow using analytical and numerical methods, and understand groundwater contamination and management[cite: 4].
+This course introduces the physical and chemical principles governing groundwater flow and occurrence. It emphasizes the quantitative analysis of subsurface flow systems. Students will learn how to apply Darcy’s law, interpret aquifer properties, analyze groundwater flow using analytical and numerical methods, and understand groundwater contamination and management.
 
 ---
 
 ## 🎯 Course Objectives
 
- By the end of the course, students will be able to: [cite: 6]
+By the end of the course, students will be able to: 
 
-*  Explain the occurrence, movement, and distribution of groundwater[cite: 7].
-*  Apply Darcy’s Law to different hydrogeologic conditions[cite: 8].
-*  Characterize aquifer properties using field and analytical data[cite: 9].
-*  Analyze steady and unsteady flow through analytical and numerical solutions[cite: 10].
-*  Construct and interpret groundwater flow models using MODFLOW[cite: 11].
-*  Understand contaminant transport and basic remediation concepts[cite: 12].
-*  Relate hydrogeologic principles to groundwater resource management[cite: 13].
+* Explain the occurrence, movement, and distribution of groundwater.
+* Apply Darcy’s Law to different hydrogeologic conditions.
+* Characterize aquifer properties using field and analytical data.
+* Analyze steady and unsteady flow through analytical and numerical solutions.
+* Construct and interpret groundwater flow models using MODFLOW.
+* Understand contaminant transport and basic remediation concepts.
+* Relate hydrogeologic principles to groundwater resource management.
 
 ---
 
 ## 💻 Software and Tools
 
-*  **Microsoft Excel:** For analytical and plotting tasks[cite: 15].
-*  **MODFLOW** [cite: 16]
+* **Microsoft Excel:** For analytical and plotting tasks.
+* **MODFLOW** 
 
 ---
 
@@ -54,7 +54,7 @@
 
 ## 📆 Weekly Schedule (Spring 2026)
 
- **(Tues = Lecture, Thurs = Computer Lab)** [cite: 20]
+**(Tues = Lecture, Thurs = Computer Lab)** 
 
 | Week | Dates (Week of) | Lecture Topics (Tue/Thu) | Lab Activity (Tuesday) | Reading | Deliverables |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -78,35 +78,35 @@
 
 ## 🗓️ Important Dates (MTU Spring 2026)
 
-*  **Jan 5:** Instruction begins [cite: 23]
-*  **Feb 4–8:** Winter Carnival Recess [cite: 24]
-*  **Feb 28–Mar 8:** Spring Break [cite: 25]
-*  **Apr 17:** Last day of regular instruction [cite: 26]
-*  **Apr 20–24:** Final exam period [cite: 27]
+* **Jan 5:** Instruction begins
+* **Feb 4–8:** Winter Carnival Recess
+* **Feb 28–Mar 8:** Spring Break
+* **Apr 17:** Last day of regular instruction
+* **Apr 20–24:** Final exam period
 
 ---
 
 ## 📝 Final Project
 
- Students will design and simulate a conceptual groundwater system using **MODFLOW**[cite: 33].  This project requires integrating aquifer parameters, boundary conditions, recharge/discharge zones, and transient responses[cite: 33].
+Students will design and simulate a conceptual groundwater system using **MODFLOW**. This project requires integrating aquifer parameters, boundary conditions, recharge/discharge zones, and transient responses.
 
- Results will be presented in a **5–7 minute presentation** and a **short written report**[cite: 34].
+Results will be presented in a **5–7 minute presentation** and a **short written report**.
 
 ---
 
 ## 📚 Course Policies
 
-*  **Attendance:** Regular attendance in both lecture and lab is expected, and absences must be communicated in advance[cite: 29].
-*  **Late Work:** Late assignments will be accepted up to 5 days with a **2 points penalty per day**, unless an excuse is granted[cite: 30].
-*  **Academic Integrity:** Collaboration is encouraged on conceptual questions, but each student must submit their own original work[cite: 31].
+* **Attendance:** Regular attendance in both lecture and lab is expected, and absences must be communicated in advance.
+* **Late Work:** Late assignments will be accepted up to 5 days with a **2 points penalty per day**, unless an excuse is granted.
+* **Academic Integrity:** Collaboration is encouraged on conceptual questions, but each student must submit their own original work.
 
 ---
 
 ## ✨ Expected Outcomes
 
- Students completing this course will be able to: [cite: 36]
+Students completing this course will be able to:
 
-*  Quantify aquifer and well parameters[cite: 37].
-*  Solve groundwater flow and transport problems using analytical and numerical tools[cite: 38].
-*  Interpret hydrogeologic and chemical data[cite: 39].
-*  Communicate groundwater analysis and modeling results effectively[cite: 40].
+* Quantify aquifer and well parameters.
+* Solve groundwater flow and transport problems using analytical and numerical tools.
+* Interpret hydrogeologic and chemical data.
+* Communicate groundwater analysis and modeling results effectively.
