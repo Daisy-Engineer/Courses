@@ -58,21 +58,21 @@ By the end of the course, students will be able to:
 
 | Week | Dates (Week of) | Lecture Topics (Tue/Thu) | Lab Activity (Tuesday) | Reading | Deliverables |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1** | 1/6/26 | Tue: Intro & Global Water Balance; Thu: Hydrologic Equation & Precip/Evap | Lab 0: Hydrogeologic Data Analytics (Excel: Units, Dates, Dual-Axis Plots) | Ch. 1 & 2 | HW1: Hydrologic Cycle |
-| **2** | 1/13/26 | Tue: Physical Properties (Porosity); Thu: Grain Size & Specific Yield | Lab 1: Aquifer Characterization (Porosity/K Calcs, Grain Size) | Ch. 3 (3.1–3.6) | HW2: Porosity/K |
-| **3** | 1/20/26 | Tue: Darcy’s Law & Gradient; Thu: Hydraulic Conductivity & Heterogeneity | Lab 2: The "Three-Point" Problem (Triangulation of Groundwater Flow) | Ch. 4 (4.1–4.6) | HW3: Darcy Problems |
-| **4** | 1/27/26 | Tue: Hydraulic Head & Potentiometric Surfaces; Thu: Flow Nets & Refraction | Lab 3: Flow Net Analysis (Drawing flow nets, calc Seepage Force) | Ch. 4 (4.7–End) | HW4: Flow Nets |
-| **5** | 2/3/26 | Tue: Flow to Wells I (Steady-State / Thiem); Thu: **No Class (Winter Carnival)** | Lab 4: Well Hydraulics (Specific Capacity & Steady State T/K) | Ch. 5 (5.1–5.4) | HW5: Steady Flow |
-| **6** | 2/10/26 | Tue: Flow to Wells II (Transient / Theis); Thu: Cooper-Jacob Approximation | Lab 5: Transient Pumping Tests (Theis Curve Matching in Excel) | Ch. 5 (5.5–5.6) | HW6: Theis Analysis |
-| **7** | 2/17/26 | Tue: Slug Tests & Boundaries; Thu: Intro to Modeling Concepts | Lab 6: Intro to MODFLOW (Compare Analytical vs. Numerical results) | Ch. 5 & 12 | Lab 6 Report |
-| **8** | 2/24/26 | Tue: **Midterm Exam**; Thu: Exam Review / Intro to Regional Flow | No Lab (Midterm Week) | Review Ch 1–5 | **Midterm Exam** |
+| **1** | 1/6/26 | Tue: Intro & Global Water Balance;<br>Thu: Hydrologic Equation & Precip/Evap | Lab 0: Hydrogeologic Data Analytics (Excel: Units, Dates, Dual-Axis Plots) | Ch. 1 & 2 | HW1: Hydrologic Cycle |
+| **2** | 1/13/26 | Tue: Physical Properties (Porosity);<br>Thu: Grain Size & Specific Yield | Lab 1: Aquifer Characterization (Porosity/K Calcs, Grain Size) | Ch. 3 (3.1–3.6) | HW2: Porosity/K |
+| **3** | 1/20/26 | Tue: Darcy’s Law & Gradient;<br>Thu: Hydraulic Conductivity & Heterogeneity | Lab 2: The "Three-Point" Problem (Triangulation of Groundwater Flow) | Ch. 4 (4.1–4.6) | HW3: Darcy Problems |
+| **4** | 1/27/26 | Tue: Hydraulic Head & Potentiometric Surfaces;<br>Thu: Flow Nets & Refraction | Lab 3: Flow Net Analysis (Drawing flow nets, calc Seepage Force) | Ch. 4 (4.7–End) | HW4: Flow Nets |
+| **5** | 2/3/26 | Tue: Flow to Wells I (Steady-State / Thiem);<br>Thu: **No Class (Winter Carnival)** | Lab 4: Well Hydraulics (Specific Capacity & Steady State T/K) | Ch. 5 (5.1–5.4) | HW5: Steady Flow |
+| **6** | 2/10/26 | Tue: Flow to Wells II (Transient / Theis);<br>Thu: Cooper-Jacob Approximation | Lab 5: Transient Pumping Tests (Theis Curve Matching in Excel) | Ch. 5 (5.5–5.6) | HW6: Theis Analysis |
+| **7** | 2/17/26 | Tue: Slug Tests & Boundaries;<br>Thu: Intro to Modeling Concepts | Lab 6: Intro to MODFLOW (Compare Analytical vs. Numerical results) | Ch. 5 & 12 | Lab 6 Report |
+| **8** | 2/24/26 | Tue: **Midterm Exam**;<br>Thu: Exam Review / Intro to Regional Flow | No Lab (Midterm Week) | Review Ch 1–5 | **Midterm Exam** |
 | **9** | 3/3/26 | **Spring Break (No Classes)** | — | — | — |
-| **10** | 3/10/26 | Tue: Regional Flow Systems (Toth); Thu: Recharge & Geology (Karst/Basalt) | Lab 7: Regional Model Setup (Boundaries, Recharge, Rivers) | Ch. 7 (plus 6/8) | HW7: Regional Flow |
-| **11** | 3/17/26 | Tue: Groundwater Chemistry (Major Ions); Thu: Stiff & Piper Diagrams | Lab 8: Hydrogeochemical Facies (Piper Plots & Water Types) | Ch. 9 | HW8: Chemistry |
-| **12** | 3/24/26 | Tue: Contaminant Transport (Advection); Thu: Dispersion & Retardation | Lab 9: Transport Modeling (Plume Tracking with MODPATH) | Ch. 10 (10.1–10.6) | HW9: Transport |
-| **13** | 3/31/26 | Tue: Remediation Strategies; Thu: Site Conceptual Models | Lab 10: Remediation Design (Pump & Treat Capture Zones) | Ch. 10 (10.7–End) | Lab 10: Remediation Plan |
-| **14** | 4/7/26 | Tue: Management & Water Budgets; Thu: Sustainability & Law | Lab 11: Final Project Workshop (Scenario Modeling & Help Session) | Ch. 11 | Project Milestone |
-| **15** | 4/14/26 | Tue: Course Synthesis / Climate Change; Thu: **Final Project Presentations** | Presentation Prep | Review | Final Project (Due Apr 16) |
+| **10** | 3/10/26 | Tue: Regional Flow Systems (Toth);<br>Thu: Recharge & Geology (Karst/Basalt) | Lab 7: Regional Model Setup (Boundaries, Recharge, Rivers) | Ch. 7 (plus 6/8) | HW7: Regional Flow |
+| **11** | 3/17/26 | Tue: Groundwater Chemistry (Major Ions);<br>Thu: Stiff & Piper Diagrams | Lab 8: Hydrogeochemical Facies (Piper Plots & Water Types) | Ch. 9 | HW8: Chemistry |
+| **12** | 3/24/26 | Tue: Contaminant Transport (Advection);<br>Thu: Dispersion & Retardation | Lab 9: Transport Modeling (Plume Tracking with MODPATH) | Ch. 10 (10.1–10.6) | HW9: Transport |
+| **13** | 3/31/26 | Tue: Remediation Strategies;<br>Thu: Site Conceptual Models | Lab 10: Remediation Design (Pump & Treat Capture Zones) | Ch. 10 (10.7–End) | Lab 10: Remediation Plan |
+| **14** | 4/7/26 | Tue: Management & Water Budgets;<br>Thu: Sustainability & Law | Lab 11: Final Project Workshop (Scenario Modeling & Help Session) | Ch. 11 | Project Milestone |
+| **15** | 4/14/26 | Tue: Course Synthesis / Climate Change;<br>Thu: **Final Project Presentations** | Presentation Prep | Review | Final Project (Due Apr 16) |
 
 ---
 
