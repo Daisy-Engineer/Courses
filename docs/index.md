@@ -8,4 +8,4 @@ Welcome to my teaching website for courses at **Michigan Technological Universit
 
 ## Courses
 
-- [Hydrogeology](docs/hydrogeology/)
+- [Hydrogeology](hydrogeology/)
