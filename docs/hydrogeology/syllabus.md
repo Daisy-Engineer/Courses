@@ -54,7 +54,7 @@ By the end of the course, students will be able to:
 
 ## 📆 Weekly Schedule (Spring 2026)
 
-**(Tues = Lecture, Thurs = Computer Lab)** 
+**(Tues = Lecture + Lab, Thurs = Computer Lab)** 
 
 | Week | Dates (Week of) | Lecture Topics (Tue/Thu) | Lab Activity (Tuesday) | Reading | Deliverables |
 | :--- | :--- | :--- | :--- | :--- | :--- |
