@@ -36,7 +36,8 @@ By the end of the course, students will be able to:
 ## 💻 Software and Tools
 
 * **Microsoft Excel:** For analytical and plotting tasks.
-* **MODFLOW** 
+* **MODFLOW**
+* **Python** : Recommended but no required
 
 ---
 
