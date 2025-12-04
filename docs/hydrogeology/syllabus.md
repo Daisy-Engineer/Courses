@@ -62,8 +62,8 @@ By the end of the course, students will be able to:
 | **2** | 1/13/26 | Tue: Physical Properties (Porosity);<br>Thu: Grain Size & Specific Yield | Lab 1: Aquifer Characterization (Porosity/K Calcs, Grain Size) | Ch. 3 (3.1–3.6) | HW2: Porosity/K |
 | **3** | 1/20/26 | Tue: Darcy’s Law & Gradient;<br>Thu: Hydraulic Conductivity & Heterogeneity | Lab 2: The "Three-Point" Problem (Triangulation of Groundwater Flow) | Ch. 4 (4.1–4.6) | HW3: Darcy Problems |
 | **4** | 1/27/26 | Tue: Hydraulic Head & Potentiometric Surfaces;<br>Thu: Flow Nets & Refraction | Lab 3: Flow Net Analysis (Drawing flow nets, calc Seepage Force) | Ch. 4 (4.7–End) | HW4: Flow Nets |
-| **5** | 2/3/26 | Tue: Flow to Wells I (Steady-State / Thiem);<br>Thu: **No Class (Winter Carnival)** | Lab 4: Well Hydraulics (Specific Capacity & Steady State T/K) | Ch. 5 (5.1–5.4) | HW5: Steady Flow |
-| **6** | 2/10/26 | Tue: Flow to Wells II (Transient / Theis);<br>Thu: Cooper-Jacob Approximation | Lab 5: Transient Pumping Tests (Theis Curve Matching in Excel) | Ch. 5 (5.5–5.6) | HW6: Theis Analysis |
+| **5** | 2/3/26 | Tue: Flow to Wells I (Steady-State / Thiem method);<br>Thu: **No Class (Winter Carnival)** | Lab 4: Well Hydraulics (Specific Capacity & Steady State T/K) | Ch. 5 (5.1–5.4) | HW5: Steady Flow |
+| **6** | 2/10/26 | Tue: Flow to Wells II (Transient / Theis method);<br>Thu: Cooper-Jacob Approximation | Lab 5: Transient Pumping Tests (Theis Curve Matching in Excel) | Ch. 5 (5.5–5.6) | HW6: Theis Analysis |
 | **7** | 2/17/26 | Tue: Slug Tests & Boundaries;<br>Thu: Intro to Modeling Concepts | Lab 6: Intro to MODFLOW (Compare Analytical vs. Numerical results) | Ch. 5 & 12 | Lab 6 Report |
 | **8** | 2/24/26 | Tue: **Midterm Exam**;<br>Thu: Exam Review / Intro to Regional Flow | No Lab (Midterm Week) | Review Ch 1–5 | **Midterm Exam** |
 | **9** | 3/3/26 | **Spring Break (No Classes)** | — | — | — |
