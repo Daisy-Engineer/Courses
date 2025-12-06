@@ -37,7 +37,6 @@ By the end of the course, students will be able to:
 
 * **Python/Microsoft Excel:** For analytical and plotting tasks.
 * **MODFLOW**
-* **Python** : Recommended but no required
 
 ---
 
