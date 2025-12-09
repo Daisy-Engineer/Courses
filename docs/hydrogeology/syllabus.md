@@ -47,8 +47,8 @@ By the end of the course, students will be able to:
 | Homework | 20% |
 | Labs | 20% |
 | Midterm Exam | 20% |
-| Final Project / Presentation | 10% |
-| Final Exam | 30% |
+| Final Project / Presentation | 15% |
+| Final Exam | 25% |
 
 ---
 
