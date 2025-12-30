@@ -104,6 +104,43 @@ Results will be presented in a **5–7 minute presentation** and a **short writt
 
 ---
 
+## Grading Scale and Rounding Policy
+
+Final course grades are calculated using a **100-point scale** and converted to letter grades and grade points as shown below. **Canvas displays numerical grades with decimals; however, letter grades are assigned using the rounded final score.**
+
+### Rounding Policy
+
+- The **final course average** is rounded to the **nearest whole number** before assigning a letter grade.
+- **Standard rounding rules apply**:
+  - Scores ending in **.5 or higher are rounded up**.
+  - Scores ending below **.5 are rounded down**.
+- **No additional rounding, curving, or adjustment** is applied beyond this policy.
+
+**Examples**
+
+- 89.5 → 90 → **A**
+- 84.5 → 85 → **AB**
+- 79.5 → 80 → **B**
+- 74.5 → 75 → **BC**
+- 69.5 → 70 → **C**
+- 64.5 → 65 → **CD**
+- 59.5 → 60 → **D**
+
+### Grade Conversion Table
+
+| Rounded Final Score | Grade Points | Letter Grade |
+|--------------------:|-------------:|--------------|
+| 90–100 | 4.00 | A |
+| 85–89  | 3.50 | AB |
+| 80–84  | 3.00 | B |
+| 75–79  | 2.50 | BC |
+| 70–74  | 2.00 | C |
+| 65–69  | 1.50 | CD |
+| 60–64  | 1.00 | D |
+| < 60   | 0.00 | F / F* |
+
+---
+
 ## ✨ Expected Outcomes
 
 Students completing this course will be able to:
