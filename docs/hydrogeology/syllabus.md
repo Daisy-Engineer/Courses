@@ -103,6 +103,9 @@ Results will be presented in a **5–7 minute presentation** and a **short writt
 * **Attendance:** Regular attendance in both lecture and lab is expected, and absences must be communicated in advance.
 * **Late Work:** Late assignments will be accepted up to 5 days with a **2 points penalty per day**, unless an excuse is granted.
 * **Academic Integrity:** Collaboration is encouraged on conceptual questions, but each student must submit their own original work.
+* **Regrades / Extensions:**  
+  - Regrade requests must be submitted in writing **within 7 days** of the assignment being returned.  
+  - Extensions due to emergencies or health issues should be requested **before the due date** when possible.
 
 ---
 
