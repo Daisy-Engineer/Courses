@@ -104,7 +104,7 @@ Results will be presented in a **5–7 minute presentation** and a **short writt
 
 ---
 
-## Grading Scale and Rounding Policy
+## 📊 Grading Scale and Rounding Policy
 
 Final course grades are calculated using a **100-point scale** and converted to letter grades and grade points as shown below. **Canvas displays numerical grades with decimals; however, letter grades are assigned using the rounded final score.**
 
