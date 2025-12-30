@@ -1,4 +1,4 @@
-# 🌊 GE3850: Geohydrology (Hydrogeology) Syllabus - Spring 2026
+# 🌊 GE3850: Geohydrology Syllabus - Spring 2026
 
 ---
 
