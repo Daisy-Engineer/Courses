@@ -36,7 +36,7 @@ By the end of the course, students will be able to:
 ## 💻 Software and Tools
 
 * **Python:** For analytical and plotting tasks.
-* **GMS - MODFLOW**
+* **GMS (Groundwater Modeling System) - MODFLOW**
 
 ---
 
