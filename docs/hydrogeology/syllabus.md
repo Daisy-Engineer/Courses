@@ -112,6 +112,7 @@ Results will be presented in a **5–7 minute presentation** and a **short writt
 * **Late Work:** Late assignments will be accepted up to 5 weekdays with a **2 points penalty per day**, unless an excuse is granted.
 * **Academic Integrity:** Collaboration is encouraged on conceptual questions, but each student must submit their own original work.
 * **Accessibility / Accommodations:** If you have a disability or need accommodations, please contact disability services and inform the instructor as soon as possible.
+* **Lab Sessions:** Weekly 2-hour lab sessions are designed as **guided work time**. The TA will be present for the **entire lab period** to answer questions, assist with homework, and help troubleshoot coding or modeling exercises. Students are encouraged to use lab time to make progress on assignments and ask questions in real time.
 
 ---
 
