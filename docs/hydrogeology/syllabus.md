@@ -143,7 +143,7 @@ Final course grades are calculated using a **100-point scale** and converted to 
 | 70–74  | 2.00 | C |
 | 65–69  | 1.50 | CD |
 | 60–64  | 1.00 | D |
-| < 60   | 0.00 | F / F* |
+| < 60   | 0.00 | F |
 
 ---
 
