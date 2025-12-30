@@ -50,7 +50,7 @@ By the end of the course, students will be able to:
 | Final Project / Presentation | 15% |
 | Final Exam | 25% |
 
-* **Homework Policy:** Your **lowest homework score** will be **dropped** from the final grade calculation. This helps provide flexibility for occasional difficulties or schedule conflicts.
+* **Homework Policy:** Your **two lowest homework score** will be **dropped** from the final grade calculation. This helps provide flexibility for occasional difficulties or schedule conflicts.
 
 ---
 
