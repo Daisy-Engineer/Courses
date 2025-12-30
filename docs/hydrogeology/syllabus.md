@@ -106,6 +106,7 @@ Results will be presented in a **5–7 minute presentation** and a **short writt
 * **Regrades / Extensions:**  
   - Regrade requests must be submitted in writing **within 7 days** of the assignment being returned.  
   - Extensions due to emergencies or health issues should be requested **before the due date** when possible.
+* **Accessibility / Accommodations:** If you have a disability or need accommodations, please contact disability services and inform the instructor as soon as possible.
 
 ---
 
