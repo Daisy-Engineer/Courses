@@ -64,7 +64,7 @@ Homework, lab assignments, and exams will be **graded by the course Teaching Ass
 
 ## 📆 Weekly Schedule (Spring 2026)
 
-**(Tues = Lecture + Lab, Thurs = Computer Lab)** 
+**(Tues = Lecture + Lab, Thurs = Lecture)** 
 
 | Week | Date (Week of)    | Tue Lecture                                 | Tue Lab (Python + Modflow)                                                                                     | Thu Lecture                                                | Fetter Chapters | HW                     | Notes                                                        |
 |------|----------|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------|-------------------------|--------------------------------------------------------------|
