@@ -55,9 +55,7 @@ By the end of the course, students will be able to:
 ### Grading and Regrade Requests
 Homework, lab assignments, and exams will be **graded by the course Teaching Assistant (TA)**.
 
-- **Regrade requests** must be submitted **in writing to the TA** within **7 calendar days** of the assignment/exam being returned.
-- Regrade requests should clearly explain the reason for the request and reference the grading rubric or solution.
-- Requests submitted after the deadline will not be considered.
+- **Regrade requests** should be submitted **directly to the TA** within **7 calendar days** of the assignment being returned.
 - Extensions due to emergencies or health issues should be requested **before the due date** when possible.
 
 ---
