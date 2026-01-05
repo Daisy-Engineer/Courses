@@ -126,7 +126,6 @@ Final course grades are calculated using a **100-point scale** and converted to 
 - **Standard rounding rules apply**:
   - Scores ending in **.5 or higher are rounded up**.
   - Scores ending below **.5 are rounded down**.
-- **No additional rounding, curving, or adjustment** is applied beyond this policy.
 
 **Examples**
 
