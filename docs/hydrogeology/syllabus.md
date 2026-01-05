@@ -108,7 +108,7 @@ Results will be presented in a **5–7 minute presentation** and a **short writt
 
 ## 📚 Course Policies
 
-* **Attendance:** Regular attendance in both lecture and lab is expected, and absences must be communicated in advance.
+* **Attendance:** Regular attendance in both lecture and lab is expected. In-person attendance is expected; however, students may attend the lecture via Zoom if needed. Please communicate with the instructor in advance to obtain the Zoom link.
 * **Late Work:** Late assignments will be accepted up to 5 weekdays with a **2 points penalty per day**, unless an excuse is granted.
 * **Academic Integrity:** Collaboration is encouraged on conceptual questions, but each student must submit their own original work.
 * **Accessibility / Accommodations:** If you have a disability or need accommodations, please contact disability services and inform the instructor as soon as possible.
